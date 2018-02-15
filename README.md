@@ -1,2 +1,2 @@
 # project-euler
-Doing the [projecteuler.net] problems in order using C#.
+Doing the [projecteuler.net] problems using C#.
